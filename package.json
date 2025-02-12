@@ -34,7 +34,6 @@
     "react-select-search": "^4.1.8",
     "react-toastify": "^11.0.2",
     "react-window": "^1.8.11",
-    "redux-devtools-extension": "^2.13.9",
     "redux-persist": "^6.0.0"
   },
   "devDependencies": {
